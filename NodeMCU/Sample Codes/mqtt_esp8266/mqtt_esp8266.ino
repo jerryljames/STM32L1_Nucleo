@@ -5,8 +5,8 @@
 
 /************************* WiFi Access Point *********************************/
 
-#define WLAN_SSID       "Jerryl_Hotspot"
-#define WLAN_PASS       "pizerow1"
+#define WLAN_SSID       "xxxxxxxx"
+#define WLAN_PASS       "xxxxxxxx"
 
 /************************* Adafruit.io Setup *********************************/
 
