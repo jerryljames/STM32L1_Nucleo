@@ -5,8 +5,8 @@
 #include "math.h"
 /************************* WiFi Access Point *********************************/
 
-#define WLAN_SSID       "AndroidAP"
-#define WLAN_PASS       "qwertyuiop"
+#define WLAN_SSID       "xxxx"
+#define WLAN_PASS       "xxxx"
 
 /************************* Adafruit.io Setup *********************************/
 
